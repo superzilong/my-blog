@@ -10,32 +10,32 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Primary Develop Language',
+    Svg: require('../../../static/img/ISO_C++_Logo.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        I mainly use C++ to develop UI with Qt Framework,
+        and some Computer Graphic functionalities(e.g. Modeling, Simulation and Rendering).
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Secondary Develop Language',
+    Svg: require('../../../static/img/python-seeklogo.com.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        I like to use python to write some automatic script which
+        can make my work more efficient. I also use python to develop some server side app with FastAPI.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Hobby',
+    Svg: require('../../../static/img/Unofficial_JavaScript_logo_2.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        It's amazing that Javascript can do so many work(e.g. Web App, Mobile App and Desktop APP).
+        There are also so many excellent open-source projects which we can use to build our APP.
       </>
     ),
   },

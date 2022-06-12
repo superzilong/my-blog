@@ -2,46 +2,31 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# My Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Programming
 
-## Getting Started
+I am a programmer based in Wuhan, China.
 
-Get started by **creating a new site**.
+I studied from Huazhong University of Science and Technology and my major is Mechanical Design, Manufacture and Automation.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+C++ is my primary programming language and I have been using it to develop CAE software for more than ten years. I am good at designing Desktop App architecture and implementing Computer Graphic functionalities. With no doubt, C++ is the first class to
+implement efficient algorithms and the Desktop CG Apps with high performance requirement.
 
-### What you'll need
+Python is my secondary language. I like the design of Python because we can use the concise sentences to implement powerful functionalities(like AI and Web). As a script language, we can easily to use it to make easy and repeated work to be automatic.
 
-- [Node.js](https://nodejs.org/en/download/) version 14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+During the Internet age, we cannot leave PC Web browser and mobile phones. Javascript can easily construct the UI in these devices. React and its ecosystem can make these work easier.
 
-## Generate a new site
+## Tools
 
-Generate a new Docusaurus site using the **classic template**.
+I mainly work on Windows Operate System and Visual Studio is my productivity tools. I like to use Jetbrain's Reshaper C++ extension which is so intelligent and make my work more fluent.
 
-The classic template will automatically be added to your project after you run the command:
+Visual Studio Code is my favorite lightweight IDE and I like to use it to implement my side projects.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+I like to use vim because it can keep my hands on the keyboards and make my input work more efficient.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+I also enjoy working on the Linux environment because I like working on the CLI more than GUI. 
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+## Hobby
 
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+I love painting, guitar and basketball.
