@@ -4,11 +4,13 @@ sidebar_position: 1
 
 # My Introduction
 
+## Education
+
+I studied from Huazhong University of Science and Technology and my major is Mechanical Design, Manufacture and Automation.
+
 ## Programming
 
 I am a programmer based in Wuhan, China.
-
-I studied from Huazhong University of Science and Technology and my major is Mechanical Design, Manufacture and Automation.
 
 C++ is my primary programming language and I have been using it to develop CAE software for more than ten years. I am good at designing Desktop App architecture and implementing Computer Graphic functionalities. With no doubt, C++ is the first class to
 implement efficient algorithms and the Desktop CG Apps with high performance requirement.
