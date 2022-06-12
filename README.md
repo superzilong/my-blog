@@ -29,13 +29,10 @@ This command generates static content into the `build` directory and can be serv
 Using SSH:
 
 ```
-$ set USE_SSH=true && yarn deploy
-```
-
-Not using SSH:
-
-```
-$ set GIT_USER=<Your GitHub username> && yarn deploy
+$ set USE_SSH=true
+$ set GIT_USER=<Your GitHub username>
+$ set DEPLOYMENT_BRANCH=master
+$ yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
